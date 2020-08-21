@@ -4,6 +4,8 @@ jdk:
 os:
   - linux
 dist:
-    include:
-        - trusty
-        - precise
+    - trusty
+os:
+  - linux
+dist:
+    - precise
